@@ -1,0 +1,40 @@
+# Build outputs
+/SI文件清单生成器.exe
+build/
+dist/
+*.spec
+
+# Generated help pages (build_help.py regenerates them)
+help.html
+使用教程.html
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Generated file lists
+SI_*_filelist.txt
+SI_*_outside_root.txt
+
+# Temporary screenshots and demo helpers
+*_raw.png
+_preview*.png
+app_preview.png
+_make_demo.py
+
+# OS / IDE
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.pfx

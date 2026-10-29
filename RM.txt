@@ -1,0 +1,1 @@
+.\gen_sourceinsight_filelist.bat Prj_Demo CtrlSW SI_Demo Debug
